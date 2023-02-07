@@ -1,2 +1,2 @@
 This is an example line.
-This is an additional line.
+We are editing the same line.
